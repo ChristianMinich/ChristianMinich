@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20About%20me!%20&height=300&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20About%20me%20&height=300&fontSize=80)
 | `Hi there 👋` |🌱 I’m currently studying|
 |-----|------|
 |[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianMinich)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMinich)](https://github.com/anuraghazra/github-readme-stats)
